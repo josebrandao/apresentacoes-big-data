@@ -18,6 +18,7 @@ Esta apresentação aborda conceitos, ferramentas e casos de uso relacionados a 
    - **🛍️ Vitrine de Produtos**: Personalização de ofertas com base no comportamento do usuário.
    - **🖥️ Totens de Atendimento**: Uso de dispositivos eletrônicos para melhorar a experiência do cliente.
    - **🧭 Jornada do Usuário**: Mapeamento da jornada do cliente desde a conscientização até a decisão de compra.
+     <img src=https://github.com/josebrandao/apresentacoes-big-data/blob/main/apresentacao.png">
 
 4. **📈 Geração de Insights**
    - Utilização de dashboards e infográficos para visualização de dados.
